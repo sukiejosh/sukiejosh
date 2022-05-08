@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Vuejs/Nuxtjs projects**
 
-- 📫 How to reach me **oladokunjoshua2016@gmail.com**
+- 📫 How to reach me **oladokunjoshua2016@gmail.com**/+2347034960134
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

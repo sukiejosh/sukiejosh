@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm sukiejosh</h1>
-<h3 align="center">Frontend developer from Nigeria</h3>
+<h1 align="left">Hi 👋, I'm sukiejosh</h1>
+<h3 align="left">Frontend developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukiejosh&label=Profile%20views&color=0e75b6&style=flat" alt="sukiejosh" /> </p>
 

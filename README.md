@@ -1,11 +1,9 @@
 <h1 align="left">Hi 👋, I'm sukiejosh</h1>
-<h3 align="left">Frontend developer from Nigeria</h3>
+<h3 align="left">Software engineer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukiejosh&label=Profile%20views&color=0e75b6&style=flat" alt="sukiejosh" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sukiejosh" alt="sukiejosh" /></a> </p> -->
-
-- 👯 I’m looking to collaborate on **Vuejs/Nuxtjs projects**
 
 - 📫 How to reach me **oladokunjoshua2016@gmail.com**
 
